@@ -1,2 +1,0 @@
-import math
-t = "test"
